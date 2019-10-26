@@ -1,5 +1,8 @@
 # Ogetarts
 
+## Where To Play
+http://ogetarts.paperdogg.com
+
 ## Welcome to Ogetarts!
 Ogetarts is a game of strategy. The idea is either to capture your opponent's base (the number 12 token), or eliminate all of their pieces with numbers 1-10. Players take turns moving pieces until the game is over.
 
